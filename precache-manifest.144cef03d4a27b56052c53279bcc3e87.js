@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-Bold.e4746d87.woff2"
   },
   {
-    "revision": "2244860bcc33afcec1e1",
+    "revision": "73e225465387e94f2283",
     "url": "./static/css/main.d5563c27.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "./static/js/5.6855fb8d.chunk.js"
   },
   {
-    "revision": "c5a27379c515c6c7b9830a9a45365ab6",
-    "url": "./static/media/Inter-UI-MediumItalic.c5a27379.woff"
+    "revision": "0b86fa9f52c56a34ab4f0e57e3f9d2a6",
+    "url": "./static/media/Inter-UI-ExtraBoldItalic.0b86fa9f.woff"
   },
   {
     "revision": "609e382429fe2c37b193",
@@ -112,24 +112,24 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-SemiBoldItalic.7f4e06f5.woff2"
   },
   {
-    "revision": "2244860bcc33afcec1e1",
-    "url": "./static/js/main.2244860b.chunk.js"
+    "revision": "73e225465387e94f2283",
+    "url": "./static/js/main.73e22546.chunk.js"
   },
   {
     "revision": "71cc82eb622e1fcfb2b55d07db74c145",
     "url": "./static/media/Inter-UI-BoldItalic.71cc82eb.woff2"
   },
   {
-    "revision": "f70fde73acbd2c5e2ebe5ef3a5abaf1d",
-    "url": "./static/media/Inter-UI-ExtraBold.f70fde73.woff2"
+    "revision": "046ace3e208c2245a78f96eaad82b727",
+    "url": "./static/media/Inter-UI-BlackItalic.046ace3e.woff2"
   },
   {
     "revision": "3270bbc36519a12e74f58f483c40dbb1",
     "url": "./static/media/Inter-UI-ExtraBoldItalic.3270bbc3.woff2"
   },
   {
-    "revision": "046ace3e208c2245a78f96eaad82b727",
-    "url": "./static/media/Inter-UI-BlackItalic.046ace3e.woff2"
+    "revision": "f70fde73acbd2c5e2ebe5ef3a5abaf1d",
+    "url": "./static/media/Inter-UI-ExtraBold.f70fde73.woff2"
   },
   {
     "revision": "ac033c05f03885cb83e6b28df6992fe7",
@@ -144,12 +144,12 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-Regular.f3e1dc5a.woff"
   },
   {
-    "revision": "a50b90e3220bf832dbe60bf476092c5e",
-    "url": "./static/media/Inter-UI-Light-BETA.a50b90e3.woff"
-  },
-  {
     "revision": "d3d01de19aa7c6f9e1f02ae47c81e829",
     "url": "./static/media/Inter-UI-Italic.d3d01de1.woff"
+  },
+  {
+    "revision": "a50b90e3220bf832dbe60bf476092c5e",
+    "url": "./static/media/Inter-UI-Light-BETA.a50b90e3.woff"
   },
   {
     "revision": "98651aecab57df9fa335374d18541952",
@@ -188,12 +188,12 @@ self.__precacheManifest = [
     "url": "./static/media/Inter-UI-LightItalic-BETA.81085c19.woff"
   },
   {
-    "revision": "52b86f26ef76b8f81244968e3431fa98",
-    "url": "./static/media/Inter-UI-SemiBoldItalic.52b86f26.woff"
+    "revision": "c5a27379c515c6c7b9830a9a45365ab6",
+    "url": "./static/media/Inter-UI-MediumItalic.c5a27379.woff"
   },
   {
-    "revision": "0b86fa9f52c56a34ab4f0e57e3f9d2a6",
-    "url": "./static/media/Inter-UI-ExtraBoldItalic.0b86fa9f.woff"
+    "revision": "52b86f26ef76b8f81244968e3431fa98",
+    "url": "./static/media/Inter-UI-SemiBoldItalic.52b86f26.woff"
   },
   {
     "revision": "cbf4a8fc684cda0b4db2",
@@ -224,7 +224,7 @@ self.__precacheManifest = [
     "url": "./static/css/1.da41466a.chunk.css"
   },
   {
-    "revision": "bb6ec41a98489af40f29e6ad9cc79e1c",
+    "revision": "bded26780d922f6a9658abfa1951e563",
     "url": "./index.html"
   }
 ];
